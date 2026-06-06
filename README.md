@@ -1,5 +1,8 @@
 ## 📜 Changelog / Version History
 
+### 📅 June 6, 2026
+* **v1.1.3.0** — Release of NEXUS-ULTIMATE v1.1.3.0 with secure script update
+
 ### 📅 June 2, 2026
 * **v1.0.9.9** — Update version 1.0.9.9 and add Jump Height feature
 
