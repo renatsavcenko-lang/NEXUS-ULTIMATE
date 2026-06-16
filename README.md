@@ -1,5 +1,9 @@
 ### 📜 Changelog / Version History
 
+#### 📅 June 16, 2026
+
+* **v1.1.5.2** — Release of NEXUS-ULTIMATE v1.1.5.2
+
 #### 📅 June 8, 2026
 
 * **v1.1.4.8** — Release of NEXUS-ULTIMATE v1.1.4.8
