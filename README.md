@@ -1,47 +1,42 @@
-### 📜 Changelog / Version History
+📜 Список изменений / История версий
 
-#### 📅 June 16, 2026
+📅 27 сентября 2026 г.
+v1.1.6.7 — Выпуск NEXUS-ULTIMATE v1.1.6.7
 
-* **v1.1.5.2** — Release of NEXUS-ULTIMATE v1.1.5.2
+📅 16 июня 2026 г.
+v1.1.5.2 — Выпуск NEXUS-ULTIMATE v1.1.5.2
 
-#### 📅 June 8, 2026
+📅 8 июня 2026 г.
+v1.1.4.8 — Выпуск NEXUS-ULTIMATE v1.1.4.8
 
-* **v1.1.4.8** — Release of NEXUS-ULTIMATE v1.1.4.8
+v1.1.4.4 — Выпуск NEXUS-ULTIMATE v1.1.4.4
 
-* **v1.1.4.4** — Release of NEXUS-ULTIMATE v1.1.4.4
+📅 7 июня 2026 г.
+v1.1.4.0 — Выпуск NEXUS-ULTIMATE v1.1.4.0
 
-#### 📅 June 7, 2026
+📅 6 июня 2026 г.
+v1.1.3.6 — Выпуск NEXUS-ULTIMATE v1.1.3.6 с обновлениями безопасности и общими улучшениями.
 
-* **v1.1.4.0** — Release of NEXUS-ULTIMATE v1.1.4.0
+v1.1.3.3 — Выпуск NEXUS-ULTIMATE v1.1.3.3 с критическими исправлениями и улучшенной защитой скриптов.
 
-#### 📅 June 6, 2026
+v1.1.3.0 — Выпуск NEXUS-ULTIMATE v1.1.3.0 с безопасным обновлением скрипта
 
-* **v1.1.3.6** — Release of NEXUS-ULTIMATE v1.1.3.6 with security updates and general improvements
+📅 2 июня 2026 г.
+v1.0.9.9 — Обновление версии 1.0.9.9 и добавление функции высоты прыжка.
 
-* **v1.1.3.3** — Release of NEXUS-ULTIMATE v1.1.3.3 with critical fixes and script security enhancement
+📅 30 мая 2026 г.
+v1.0.9.7_fixed3 — Обновите NEXUS-ULTIMATE до версии 1.0.9.7_fixed3
 
-* **v1.1.3.0** — Release of NEXUS-ULTIMATE v1.1.3.0 with secure script update
+v1.0.9.2 — Обновление версии 1.0.9.2 и локализация для NEXUS-EMOTES
 
-#### 📅 June 2, 2026
+v1.0.9.1 — Обновление версии до v1.0.9.1
 
-* **v1.0.9.9** — Update version 1.0.9.9 and add Jump Height feature
+v1.0.8.9 — NEXUS-ULTIMATE v1.0.8.9
 
-#### 📅 May 30, 2026
+📅 26 мая 2026 г.
+v1.0.5.8 — Обновление до версии 1.0.5.8 с новыми функциями
 
-* **v1.0.9.7_fixed3** — Update NEXUS-ULTIMATE to version 1.0.9.7_fixed3
+📅 12 мая 2026 г.
+v1.0.5.6.4 — NEXUS ULTIMATE - v1.0.5.6.4
 
-* **v1.0.9.2** — Update version 1.0.9.2 and localization for NEXUS-EMOTES
-
-* **v1.0.9.1** — Update version to v1.0.9.1
-
-* **v1.0.8.9** — NEXUS-ULTIMATE v1.0.8.9
-
-#### 📅 May 26, 2026
-
-* **v1.0.5.8** — Upgrade to v1.0.5.8 with new features
-
-#### 📅 May 12, 2026
-
-* **v1.0.5.6.4** — NEXUS ULTIMATE - v1.0.5.6.4
-
-* **v1.0.5.6** — NEXUS-ULTIMATE v1.0.5.6
+v1.0.5.6 — NEXUS-ULTIMATE v1.0.5.6
